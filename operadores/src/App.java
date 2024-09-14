@@ -11,5 +11,7 @@ public class App {
         System.out.println("A multiplicação de " + vlr1 + "x" + vlr2 + "=" + mult);
         int div = vlr1 + vlr2;
         System.out.println("A Divisão de " + vlr1 + "/" + vlr2 + "=" + div);
+        int mod = vlr1 % vlr2;
+        System.out.println("O resto (módulo) da divisão entre " + vlr1 + " % " + vlr2 + "=" + mod);
     }
 }
