@@ -1,0 +1,20 @@
+1.Criar um projeto ContaBanco que receberá dados via terminal contendo as caracteristicas de conta em banco  conforme atributos abaixo:
+2.Dentro do projeto, crie a classe ContaTerminal.java para realizar toda a codificação do nosso programa.
+
+Revise sobre regras de declaração de variaveis
+Atributo        Tipo    
+Numero          Inteiro
+Agencia         String
+Nome_Cliente    String
+Saldo           Double
+
+Revise sobre o terminal, main args e a classe Scanner
+    2.Permita que os dados sejam inseridos via terminal sendo que o usuário receberá a mensagem de qual informação será solicitada, exemplo:
+
+    -Programa: Por favor, digite o número da Agência! 
+    -Usuário: 1021 
+
+    3. Depois de todas as  informações terem sido inseridas, o sistema deverá exibir a seguinte mensagem:
+    -Olá Nome_cliente, obrigado por criar uma conta em nosso banco, sua agência é "Agencia", "Conta" e seu "saldo" já esta disponivel para saque.
+
+    Os campos em [] devem ser alterados pelas informações que forem inseridas pelos usuários.
